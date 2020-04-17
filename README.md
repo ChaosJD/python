@@ -2,7 +2,7 @@
 my hints &amp; knowings
 
 ## articles
-* [The Ultimate Python Beginner's Handbook](https://www.freecodecamp.org/news/the-python-guide-for-beginners/#installingpython3)
+* [The Ultimate Python Beginner's Handbook - freecodecamp](https://www.freecodecamp.org/news/the-python-guide-for-beginners/#installingpython3)
 
 ## downloads
 ### ebooks
