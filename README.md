@@ -14,3 +14,8 @@ my hints &amp; knowings
 
 ## online reading
 * [python3](http://openbook.rheinwerk-verlag.de/python/)
+
+
+## braces
+* [bython](https://github.com/mathialo/bython)  
+* [pythonWithBraces](https://python-with-braces.appspot.com/#downloads)
