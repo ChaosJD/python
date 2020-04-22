@@ -13,7 +13,8 @@ my hints &amp; knowings
 * [Python](https://www.python.org/)
 
 ## online reading
-* [python3](http://openbook.rheinwerk-verlag.de/python/)
+* [python3](http://openbook.rheinwerk-verlag.de/python/)  
+* [w3sPython](https://www.w3schools.com/python/default.asp)  
 
 
 ## braces
