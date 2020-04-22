@@ -19,3 +19,6 @@ my hints &amp; knowings
 ## braces
 * [bython](https://github.com/mathialo/bython)  
 * [pythonWithBraces](https://python-with-braces.appspot.com/#downloads)
+
+## wtf
+[wtfPython](https://github.com/satwikkansal/wtfpython)  
