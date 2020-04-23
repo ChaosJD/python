@@ -23,3 +23,9 @@ my hints &amp; knowings
 
 ## wtf
 [wtfPython](https://github.com/satwikkansal/wtfpython)  
+
+## Eol
+
+[Programmiersprachen: Lang lebe Python 3 – finales Release von Python 2](https://heise.de/-4706247 )
+
+
