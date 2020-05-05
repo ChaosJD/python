@@ -33,8 +33,10 @@ my hints &amp; knowings
 * [Deep Learning with PyTorch - Full Course](https://youtu.be/GIsg-ZUy0MY)
 * [Python Project: Detailed Code Walkthrough / Explanation](https://youtu.be/43P1BMPvht8)
 * [Beautiful Python Refactoring](https://youtu.be/KTIl1MugsSY)
-* [DE
-9+
-0:00 / 4:22:12
-Data Analysis with Python - Full Course for Beginners (Numpy, Pandas, Matplotlib, Seaborn)](https://youtu.be/r-uOLxNrNk8)
-
+* [Data Analysis with Python - Full Course for Beginners (Numpy, Pandas, Matplotlib, Seaborn)](https://youtu.be/r-uOLxNrNk8)
+* [Tkinter Course - Create Graphic User Interfaces in Python Tutorial](https://youtu.be/YXPyB4XeYLA)
+* [Python NumPy Tutorial for Beginners](https://youtu.be/QUT1VHiLmmI)
+* [Learn Data Science Tutorial - Full Course for Beginners](https://youtu.be/ua-CiDNNj30)
+* [Learn Python by Immersion](https://youtu.be/hPECpDHHjoI)
+* [Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer](https://youtu.be/RBSGKlAvoiM)
+* [Statistics - A Full University Course on Data Science Basics](https://youtu.be/xxpc-HPKN28)
