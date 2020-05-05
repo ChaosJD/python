@@ -2,7 +2,8 @@
 my hints &amp; knowings
 
 ## articles
-* [The Ultimate Python Beginner's Handbook - freecodecamp](https://www.freecodecamp.org/news/the-python-guide-for-beginners/#installingpython3)
+* [The Ultimate Python Beginner's Handbook - freecodecamp](https://www.freecodecamp.org/news/the-python-guide-for-beginners/#installingpython3)  
+* [The Ultimate Guide to Python: How to Go From Beginner to Pro](https://www.freecodecamp.org/news/the-ultimate-guide-to-python-from-beginner-to-intermediate-to-pro/)
 
 ## downloads
 ### ebooks
@@ -24,7 +25,7 @@ my hints &amp; knowings
 ## wtf
 [wtfPython](https://github.com/satwikkansal/wtfpython)  
 
-## Eol
+## eol - enf of live
 
 [Programmiersprachen: Lang lebe Python 3 – finales Release von Python 2](https://heise.de/-4706247 )
 
