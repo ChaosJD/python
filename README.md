@@ -29,4 +29,12 @@ my hints &amp; knowings
 
 [Programmiersprachen: Lang lebe Python 3 – finales Release von Python 2](https://heise.de/-4706247 )
 
+## vids
+* [Deep Learning with PyTorch - Full Course](https://youtu.be/GIsg-ZUy0MY)
+* [Python Project: Detailed Code Walkthrough / Explanation](https://youtu.be/43P1BMPvht8)
+* [Beautiful Python Refactoring](https://youtu.be/KTIl1MugsSY)
+* [DE
+9+
+0:00 / 4:22:12
+Data Analysis with Python - Full Course for Beginners (Numpy, Pandas, Matplotlib, Seaborn)](https://youtu.be/r-uOLxNrNk8)
 
