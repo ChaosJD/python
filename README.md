@@ -26,8 +26,10 @@ my hints &amp; knowings
 [wtfPython](https://github.com/satwikkansal/wtfpython)  
 
 ## eol - enf of live
-
 [Programmiersprachen: Lang lebe Python 3 – finales Release von Python 2](https://heise.de/-4706247 )
+
+## tuts
+[pythonprogramming.net](https://.net/)
 
 ## vids
 * [Deep Learning with PyTorch - Full Course](https://youtu.be/GIsg-ZUy0MY)
@@ -40,3 +42,4 @@ my hints &amp; knowings
 * [Learn Python by Immersion](https://youtu.be/hPECpDHHjoI)
 * [Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer](https://youtu.be/RBSGKlAvoiM)
 * [Statistics - A Full University Course on Data Science Basics](https://youtu.be/xxpc-HPKN28)
+
