@@ -29,7 +29,8 @@ my hints &amp; knowings
 [Programmiersprachen: Lang lebe Python 3 – finales Release von Python 2](https://heise.de/-4706247 )
 
 ## tuts
-[pythonprogramming.net](https://.net/)
+* [pythonprogramming.net](https://.net/)  
+* [python_w3s](https://www.w3schools.com/python/default.asp)  
 
 ## vids
 * [Deep Learning with PyTorch - Full Course](https://youtu.be/GIsg-ZUy0MY)
