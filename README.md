@@ -14,6 +14,9 @@ my hints &amp; knowings
 ### software
 * [Releases](https://www.python.org/downloads/)  
 * [Python](https://www.python.org/)
+* [Sphinx](hhttps://www.sphinx-doc.org/en/master/index.html)
+* [pydoc](https://docs.python.org/2/library/pydoc.html)
+
 
 ## online reading
 * [python3](http://openbook.rheinwerk-verlag.de/python/)  
@@ -27,7 +30,7 @@ my hints &amp; knowings
 ## wtf
 [wtfPython](https://github.com/satwikkansal/wtfpython)  
 
-## eol - enf of live
+## eol - end of live
 [Programmiersprachen: Lang lebe Python 3 – finales Release von Python 2](https://heise.de/-4706247 )
 
 ## tut
@@ -46,6 +49,3 @@ my hints &amp; knowings
 * [Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer](https://youtu.be/RBSGKlAvoiM)
 * [Statistics - A Full University Course on Data Science Basics](https://youtu.be/xxpc-HPKN28)
 * [Auto-Generated Python Documentation with Sphinx (See comments for update fix)](https://youtu.be/b4iFyrLQQh4)
-
-## tool
-* [pydoc](https://docs.python.org/2/library/pydoc.html)
