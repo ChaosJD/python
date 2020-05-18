@@ -28,7 +28,7 @@ my hints &amp; knowings
 ## eol - enf of live
 [Programmiersprachen: Lang lebe Python 3 – finales Release von Python 2](https://heise.de/-4706247 )
 
-## tuts
+## tut
 * [pythonprogramming.net](https://.net/)  
 * [python_w3s](https://www.w3schools.com/python/default.asp)  
 
@@ -44,3 +44,5 @@ my hints &amp; knowings
 * [Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer](https://youtu.be/RBSGKlAvoiM)
 * [Statistics - A Full University Course on Data Science Basics](https://youtu.be/xxpc-HPKN28)
 
+## doc
+* [pydoc](https://docs.python.org/2/library/pydoc.html)
