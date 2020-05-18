@@ -1,14 +1,16 @@
 # python
 my hints &amp; knowings
 
-## articles
+## article
 * [The Ultimate Python Beginner's Handbook - freecodecamp](https://www.freecodecamp.org/news/the-python-guide-for-beginners/#installingpython3)  
 * [The Ultimate Guide to Python: How to Go From Beginner to Pro](https://www.freecodecamp.org/news/the-ultimate-guide-to-python-from-beginner-to-intermediate-to-pro/)
+* [documentingPythonCode](https://realpython.com/documenting-python-code/)
 
 ## downloads
 ### ebooks
 * [Python 3 – Das umfassende Handbuch (5., aktual. und erw. Auflage 2017)](https://www.heise.de/download/product/python-3-das-umfassende-handbuch-50453)  
 * [Making Games with Python & Pygame](https://www.heise.de/download/product/making-games-with-python-pygame-91343)
+
 ### software
 * [Releases](https://www.python.org/downloads/)  
 * [Python](https://www.python.org/)
@@ -44,5 +46,5 @@ my hints &amp; knowings
 * [Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer](https://youtu.be/RBSGKlAvoiM)
 * [Statistics - A Full University Course on Data Science Basics](https://youtu.be/xxpc-HPKN28)
 
-## doc
+## tool
 * [pydoc](https://docs.python.org/2/library/pydoc.html)
