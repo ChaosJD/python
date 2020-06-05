@@ -5,6 +5,7 @@ my hints &amp; knowings
 * [The Ultimate Python Beginner's Handbook - freecodecamp](https://www.freecodecamp.org/news/the-python-guide-for-beginners/#installingpython3)  
 * [The Ultimate Guide to Python: How to Go From Beginner to Pro](https://www.freecodecamp.org/news/the-ultimate-guide-to-python-from-beginner-to-intermediate-to-pro/)
 * [documentingPythonCode](https://realpython.com/documenting-python-code/)
+* [Python Data Science – A Free 12-Hour Course for Beginners. Learn Pandas, NumPy, Matplotlib, and More.](https://www.freecodecamp.org/news/python-data-science-course-matplotlib-pandas-numpy/)
 
 ## downloads
 ### ebooks
