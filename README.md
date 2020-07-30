@@ -50,3 +50,6 @@ my hints &amp; knowings
 * [Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer](https://youtu.be/RBSGKlAvoiM)
 * [Statistics - A Full University Course on Data Science Basics](https://youtu.be/xxpc-HPKN28)
 * [Auto-Generated Python Documentation with Sphinx (See comments for update fix)](https://youtu.be/b4iFyrLQQh4)
+
+# yupiterNotebookSite
+* [colab](https://colab.research.google.com/notebooks/intro.ipynb)
