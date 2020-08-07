@@ -54,3 +54,6 @@ my hints &amp; knowings
 
 # yupiterNotebookSite
 * [colab](https://colab.research.google.com/notebooks/intro.ipynb)
+
+# docs
+* [pythonDocs](https://docs.python.org/3/)
