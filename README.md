@@ -8,12 +8,12 @@ my hints &amp; knowings
 * [Python Data Science – A Free 12-Hour Course for Beginners. Learn Pandas, NumPy, Matplotlib, and More.](https://www.freecodecamp.org/news/python-data-science-course-matplotlib-pandas-numpy/)
 * [gui](https://realpython.com/pysimplegui-python/)
 
-## downloads
-### ebooks
+## ebooks
 * [Python 3 – Das umfassende Handbuch (5., aktual. und erw. Auflage 2017)](https://www.heise.de/download/product/python-3-das-umfassende-handbuch-50453)  
 * [Making Games with Python & Pygame](https://www.heise.de/download/product/making-games-with-python-pygame-91343)
+* []()
 
-### software
+## software
 * [Releases](https://www.python.org/downloads/)  
 * [Python](https://www.python.org/)
 * [Sphinx](hhttps://www.sphinx-doc.org/en/master/index.html)
@@ -23,7 +23,7 @@ my hints &amp; knowings
 ## online reading
 * [python3](http://openbook.rheinwerk-verlag.de/python/)  
 * [w3sPython](https://www.w3schools.com/python/default.asp)  
-
+* [The Hitchhiker’s Guide to Python!](https://docs.python-guide.org/)
 
 ## braces
 * [bython](https://github.com/mathialo/bython)  
