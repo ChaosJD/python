@@ -7,6 +7,7 @@ my hints &amp; knowings
 * [documentingPythonCode](https://realpython.com/documenting-python-code/)
 * [Python Data Science – A Free 12-Hour Course for Beginners. Learn Pandas, NumPy, Matplotlib, and More.](https://www.freecodecamp.org/news/python-data-science-course-matplotlib-pandas-numpy/)
 * [gui](https://realpython.com/pysimplegui-python/)
+* [Cross-Plattform: Qt for Python schlängelt zu Version 6 des Frameworks]( https://heise.de/-4985933)
 
 ## ebooks
 * [Python 3 – Das umfassende Handbuch (5., aktual. und erw. Auflage 2017)](https://www.heise.de/download/product/python-3-das-umfassende-handbuch-50453)  
