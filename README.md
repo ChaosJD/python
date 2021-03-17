@@ -18,6 +18,7 @@ my hints &amp; knowings
 * [Python](https://www.python.org/)
 * [Sphinx](hhttps://www.sphinx-doc.org/en/master/index.html)
 * [pydoc](https://docs.python.org/2/library/pydoc.html)
+* [Sourcery-AI Controls AI](https://sourcery.ai/)
 
 
 ## online reading
