@@ -55,6 +55,7 @@ my hints &amp; knowings
 
 # yupiterNotebookSite
 * [colab](https://colab.research.google.com/notebooks/intro.ipynb)
+* [realPython-JupyterNotebook-local](https://realpython.com/jupyter-notebook-introduction/)
 
 # docs
 * [pythonDocs](https://docs.python.org/3/)
